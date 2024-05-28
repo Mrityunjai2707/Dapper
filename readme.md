@@ -37,7 +37,3 @@ The `GenericDatabaseHelper` class provides the following methods:
 - `Delete`: Deletes an entity by its ID from the database.
 
 To use the generic database helper with a specific entity type, instantiate the `GenericDatabaseHelper<T>` class with the appropriate entity type, and call the desired methods.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
